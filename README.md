@@ -19,9 +19,9 @@ Run this code in visual studio or any other c++ compiler.
 Players place their ships on the grid.
 
 <h5>Gameplay</h5>:
-1) Players take turns guessing the coordinates to attack.
-2) The game notifies if the attack hits, misses, or sinks a ship.
-3) Continue until one player sinks all the opponent's ships.
+Players take turns guessing the coordinates to attack.<br>
+The game notifies if the attack hits, misses, or sinks a ship.
+Continue until one player sinks all the opponent's ships.
 
 <h5>Winning Scenario:</h5>
 The player who sinks all the opponent's ships first wins.
