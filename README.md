@@ -26,4 +26,4 @@ Continue until one player sinks all the opponent's ships.
 <h5>Winning Scenario:</h5>
 The player who sinks all the opponent's ships first wins.
 <h3>Screenshots</h3>
-![image](https://github.com/BurhanHussain1/Battleship-Game-CPP/assets/157976590/011ed6da-9e0f-458a-a888-8c6c4fae5625)
+<img scr="https://github.com/BurhanHussain1/Battleship-Game-CPP/assets/157976590/011ed6da-9e0f-458a-a888-8c6c4fae5625">
