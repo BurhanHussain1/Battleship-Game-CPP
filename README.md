@@ -14,23 +14,15 @@ This Battleship Game project is a classic strategy game implemented in C++. In t
 <h3>Getting Started</h3>
 Run this code in visual studio or any other c++ compiler.
 
-How to Play
-Setup Phase:
-
+<h3>How to Play</h3>
+<h5>Setup Phase:</h5>
 Players place their ships on the grid.
-Gameplay:
 
-Players take turns guessing the coordinates to attack.
+<h5>Gameplay</h5>:
+1) Players take turns guessing the coordinates to attack.
+2) The game notifies if the attack hits, misses, or sinks a ship.
+3) Continue until one player sinks all the opponent's ships.
 
-The game notifies if the attack hits, misses, or sinks a ship.
-
-Continue until one player sinks all the opponent's ships.
-
-Winning the Game:
-
+<h5>Winning Scenario:</h5>
 The player who sinks all the opponent's ships first wins.
-Screenshots
-[Include some screenshots of your game in action.]
-
-Contributing
-If you'd like to contribute to the project, feel free to fork the repository and submit pull requests with your changes.
+<h3>Screenshots</h3>
