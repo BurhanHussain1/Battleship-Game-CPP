@@ -18,9 +18,9 @@ Run this code in visual studio or any other c++ compiler.
 <h5>Setup Phase:</h5>
 Players place their ships on the grid.
 
-<h5>Gameplay</h5>:
+<h5>Gameplay:</h5>
 Players take turns guessing the coordinates to attack.<br>
-The game notifies if the attack hits, misses, or sinks a ship.
+The game notifies if the attack hits, misses, or sinks a ship.<br>
 Continue until one player sinks all the opponent's ships.
 
 <h5>Winning Scenario:</h5>
