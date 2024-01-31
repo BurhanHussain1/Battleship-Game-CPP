@@ -1,32 +1,19 @@
 <h1>Battleship Game in C++</h1>
-Overview
+<h3>Overview</h3>
 This Battleship Game project is a classic strategy game implemented in C++. In this game, two players take turns guessing the coordinates of each other's hidden ships on a 2D grid. The primary objective is to sink all the opponent's fleet before they do the same to you.
 
-Features
-2-Player Gameplay: Enjoy a head-to-head battle with a friend in a turn-based gameplay style.
+<h3>Features</h3>
+<h5>2-Player Gameplay:</h5> Enjoy a head-to-head battle with a friend in a turn-based gameplay style.
 
-Grid Representation: The game is played on a 2D grid where players can make coordinate guesses.
+<h5>Grid Representation:</h5> The game is played on a 2D grid where players can make coordinate guesses.
 
-Ship Placement: Ships are randomly placed on the grid at the beginning of the game.
+<h5>Ship Placement:</h5> Ships are randomly placed on the grid at the beginning of the game.
 
-Interactive Interface: A user-friendly interface guides players through their turns, displaying the current state of the game.
+<h5>Interactive Interface:</h5> A user-friendly interface guides players through their turns, displaying the current state of the game.
 
-Getting Started
-Clone the Repository:
+<h3>Getting Started</h3>
+Run this code in visual studio or any other c++ compiler.
 
-bash
-Copy code
-git clone https://github.com/your-username/battleship-game.git
-Compile the Code:
-
-bash
-Copy code
-g++ main.cpp -o battleship
-Run the Game:
-
-bash
-Copy code
-./battleship
 How to Play
 Setup Phase:
 
